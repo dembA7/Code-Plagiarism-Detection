@@ -1,0 +1,8 @@
+ConPlag
+https://zenodo.org/records/7332790
+
+FIRE14
+https://pan.webis.de/fire14/pan14-web/#data
+
+IR-Plag
+https://github.com/oscarkarnalim/sourcecodeplagiarismdataset
