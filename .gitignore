@@ -1,3 +1,8 @@
+# Dataset
+dataset/CONPLAG_VERSION2
+dataset/FIRE14
+dataset/IRPLAG
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
