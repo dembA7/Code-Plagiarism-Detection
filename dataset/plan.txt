@@ -1,0 +1,16 @@
+Objetivo: Unir datasets y generar etiquetas que funcionen con los datasets combinados.
+
+Conplag:
+1. Train y test_pairs.csv: Contienen los pares en una sola columna, pares divididos por guiones bajo
+2. labels.csv: Contiene los pares, y su veredicto o label. 0 si no es plagio, 1 si sí lo es
+3. El contenido de los archivos se encuentra en versions/
+
+Fire14:
+1. Obtener pares plagiados desde SOCO14-java.qrel
+2. Generar pares sin plagio para los pares faltantes
+3. El contenido de los archivos se encuentra java/
+
+IRPLAG:
+1. Ubicar archivo original
+2. Recorrer carpetas sin plagio
+3. Recorrer carpetas con plagio
