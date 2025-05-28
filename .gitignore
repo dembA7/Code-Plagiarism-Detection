@@ -2,6 +2,9 @@
 dataset/CONPLAG_VERSION2
 dataset/FIRE14
 dataset/IRPLAG
+dataset/dataset.csv
+dataset/dataset.jsonl
+dataset/dataset.parquet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
